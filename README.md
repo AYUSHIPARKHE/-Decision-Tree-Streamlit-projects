@@ -73,3 +73,11 @@ It showcases an end-to-end ML pipeline — from **data preprocessing, model trai
 ```bash
 git clone https://github.com/AYUSHIPARKHE/Decision-Tree-Streamlit-Project.git
 cd Decision-Tree-Streamlit-Project
+
+
+###🔹 Install Required Libraries
+pip install -r requirements.txt
+
+###🔹 Run the Streamlit App
+streamlit run de.py
+
